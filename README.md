@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhaykumar39/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhaykumar39/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhaykumar39/LeetCode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
