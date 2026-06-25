@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Abhaykumar39/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
