@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhaykumar39/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Abhaykumar39/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Abhaykumar39/LeetCode/tree/master/0118-pascals-triangle) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abhaykumar39/LeetCode/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abhaykumar39/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abhaykumar39/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
