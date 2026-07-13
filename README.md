@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhaykumar39/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Abhaykumar39/LeetCode/tree/master/0118-pascals-triangle) |
+| [0682-baseball-game](https://github.com/Abhaykumar39/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Abhaykumar39/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
@@ -65,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhaykumar39/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Abhaykumar39/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhaykumar39/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
