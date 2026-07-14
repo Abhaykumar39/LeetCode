@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Abhaykumar39/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Abhaykumar39/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abhaykumar39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0682-baseball-game](https://github.com/Abhaykumar39/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Abhaykumar39/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
