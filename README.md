@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhaykumar39/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Abhaykumar39/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhaykumar39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/Abhaykumar39/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Abhaykumar39/LeetCode/tree/master/0509-fibonacci-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhaykumar39/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Abhaykumar39/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhaykumar39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhaykumar39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Abhaykumar39/LeetCode/tree/master/0509-fibonacci-number) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhaykumar39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhaykumar39/LeetCode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhaykumar39/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
