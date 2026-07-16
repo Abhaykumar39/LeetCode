@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhaykumar39/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Abhaykumar39/LeetCode/tree/master/0070-climbing-stairs) |
+| [0441-arranging-coins](https://github.com/Abhaykumar39/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Abhaykumar39/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/Abhaykumar39/LeetCode/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
