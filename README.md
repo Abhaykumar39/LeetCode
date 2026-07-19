@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Abhaykumar39/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Abhaykumar39/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhaykumar39/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhaykumar39/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Abhaykumar39/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Matrix
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Abhaykumar39/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhaykumar39/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhaykumar39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/Abhaykumar39/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Abhaykumar39/LeetCode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhaykumar39/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhaykumar39/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abhaykumar39/LeetCode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhaykumar39/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhaykumar39/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhaykumar39/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhaykumar39/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
