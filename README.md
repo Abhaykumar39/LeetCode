@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Abhaykumar39/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Abhaykumar39/LeetCode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Abhaykumar39/LeetCode/tree/master/0198-house-robber) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhaykumar39/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0682-baseball-game](https://github.com/Abhaykumar39/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Abhaykumar39/LeetCode/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhaykumar39/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhaykumar39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhaykumar39/LeetCode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Abhaykumar39/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Abhaykumar39/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
